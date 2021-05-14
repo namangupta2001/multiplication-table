@@ -1,0 +1,36 @@
+body {
+    background: url(back.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.h1 {
+    color: black;
+}
+
+.h2 {
+    color: black;
+    font-style: oblique;
+}
+
+.head {
+    text-align: center;
+    background-color: aliceblue;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.middle {
+    text-align: center;
+    background-color: lightgray;
+    min-height: 5rem;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#demo {
+    font-size: large;
+    font-stretch: expanded;
+}
